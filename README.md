@@ -1,7 +1,5 @@
 # SMS-spm-pridiction
-This project aims to develop a system that automatically detects mentions of the Malaysian Certificate of Education (SPM) within professional SMS conversations.
-
-Target Users: Professionals who receive or send SMS messages related to SPM.
+It tackles the issue of spammy SMS messages. It builds a system to identify spam based on message content. By cleaning text data, converting it to a format a computer understands, and training a model on labeled examples, the system can predict whether a new message is spam or not. With an accuracy of nearly 98%, this code offers a glimpse into how machine learning can be applied to fight spam in our SMS inboxes.
 
 Applications:
 
